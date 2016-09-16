@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.snu.ids.ha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.snu.ids.ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.snu.ids.ha.jar!/org/snu/ids/ha" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
