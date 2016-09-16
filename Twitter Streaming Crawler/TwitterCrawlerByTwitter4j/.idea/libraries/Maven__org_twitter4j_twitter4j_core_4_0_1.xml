@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.twitter4j:twitter4j-core:4.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.1/twitter4j-core-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.1/twitter4j-core-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.1/twitter4j-core-4.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/twitter4j/conf/twitter4j-core/twitter4j-core-3.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
